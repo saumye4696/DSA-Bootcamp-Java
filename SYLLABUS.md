@@ -151,17 +151,17 @@
     - Top k elements
     - Interval problems
 - HashMap
-    - Introduction
-    - Theory - how it works
-    - Comparisons of various forms
-    - Limitations and how to solve
-    - Map using LinkedList
-    - Map using Hash
-    - Count Sort
-    - Radix Sort
-    - Chaining
-    - Probing
-    - Huffman-Encoder
+    - []Introduction
+    - []Theory - how it works
+    - []Comparisons of various forms
+    - []Limitations and how to solve
+    - []Map using LinkedList
+    - []Map using Hash
+    - []Count Sort
+    - []Radix Sort
+    - []Chaining
+    - []Probing
+    - []Huffman-Encoder
 - Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm
 - Graphs
     - Introduction
